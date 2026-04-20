@@ -1,26 +1,26 @@
 # Tempo
 
-> Dáváme dobré věci do pohybu.
+> Putting good things in motion.
 
-**Tempo** je transformační a kreativní studio. Stavíme firmy, značky, produkty a služby, zavádíme nové technologie a metody do organizací a trénujeme vedoucí i týmy v kreativním řízení změn.
+**Tempo** is a transformation and creative studio. We build companies, brands, products, and services, introduce new technologies and methods into organizations, and train leaders and teams in creative change management.
 
-Budujeme prostředí, kde rozvíjíme vlastní iniciativy a pomáháme týmům a nápadům, kterým věříme.
+We're building an environment where we grow our own initiatives and support teams and ideas we believe in.
 
-## Co děláme
+## What we do
 
-- **Tvorba** -- stavba firem, značek, produktů, služeb a projektů
-- **Proměna** -- zavádění nových technologií, nástrojů a metod do organizací
-- **Trénink** -- vzdělávání vedoucích a týmů v kreativním řízení změn
+- **Create** -- building companies, brands, products, services, and projects
+- **Transform** -- introducing new technologies, tools, and methods into organizations
+- **Train** -- educating leaders and teams in creative change management
 
-Hlavní témata: digitalizace, AI transformace, service design, UX/UI, procesní řízení, výzkum trhu, ESG strategie.
+Focus areas: digitalization, AI transformation, service design, UX/UI, process management, market research, ESG strategy.
 
 ## Open source
 
-Tento GitHub účet hostí naše open source nástroje a knihovny.
+This GitHub account hosts our open source tools and libraries.
 
-- [tempo-public-skills-marketplace](https://github.com/Tempo-Ventures/tempo-public-skills-marketplace) -- veřejný Claude Code plugin marketplace
+- [tempo-public-skills-marketplace](https://github.com/Tempo-Ventures/tempo-public-skills-marketplace) -- public Claude Code plugin marketplace
 
-## Kontakt
+## Contact
 
 - Web: [tempo.ooo](https://tempo.ooo)
 - Email: studio@tempo.ooo
