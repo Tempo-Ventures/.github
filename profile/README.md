@@ -4,7 +4,7 @@
 
 **Tempo** je transformační a kreativní studio. Stavíme firmy, značky, produkty a služby, zavádíme nové technologie a metody do organizací a trénujeme vedoucí i týmy v kreativním řízení změn.
 
-Členové týmu pocházejí ze zkušeností z korporací, agentur a startupů. Budujeme prostředí, kde rozvíjíme vlastní iniciativy a pomáháme týmům a nápadům, kterým věříme.
+Budujeme prostředí, kde rozvíjíme vlastní iniciativy a pomáháme týmům a nápadům, kterým věříme.
 
 ## Co děláme
 
